@@ -1,7 +1,7 @@
 # Computer-Networks
 
 * Final Project:\
-The goal of this project written in python is to create a simple chatroom by first creating a simple server and client which communicate via a certain Port, and then adding funcitonalities such as sending and displaying messages which including sender and recipent(optional) name in a common environment acting as a chatroom.
+The goal of this project written in python, is to create a simple chatroom by first creating a pair of server and client which communicate via a certain port, and next implementing functions such as sending and displaying messages including sender's and recipent's(optional) names in a common environment acting as a chatroom.
 
-* Theoretical Homeworks:
+* Theoretical Homeworks:\
 HW#2: 
